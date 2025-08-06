@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# CodeAlpha_FAQs_Chatbot
 =======
 # FAQ Chatbot
 
@@ -142,8 +140,5 @@ For production deployment, consider:
 - Using environment variables for configuration
 - Implementing proper logging and monitoring
 
-## License
 
-This project is provided as-is for educational and development purposes.
 
->>>>>>> 708281c (Upload)
